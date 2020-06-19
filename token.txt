@@ -1,0 +1,12 @@
+
+Response body
+Download
+{
+  "user": {
+    "id": 1,
+    "username": "batman",
+    "password": "",
+    "role": "manager"
+  },
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6ImJhdG1hbiIsInJvbGUiOiJtYW5hZ2VyIiwibmJmIjoxNTkyNDg3MTIzLCJleHAiOjE1OTI0OTQzMjMsImlhdCI6MTU5MjQ4NzEyM30.x-RQ8MCIqcsN7dmDE2ne9mBvPi2PZxu9xrVInaq4st0"
+}
